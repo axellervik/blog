@@ -1,6 +1,6 @@
 {
   "name": "blog",
-  "homepage": "http://github.com/axellervik/blog/",
+  "homepage": "https://github.com/axellervik/blog/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
